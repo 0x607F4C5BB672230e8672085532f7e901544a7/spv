@@ -19,3 +19,7 @@ Au final on a la plus longue chaine mais si tu peux slash qqn c'est mort je pens
 Néanmoins si quand on apporte une preuve de double dépense on récup la thune c'est bon
 
 Chacun post tout sur bitcoin, et si le mec double dépense sur bitcoin pour que sa tx soit pas incluse on link les deux transactions ? Du coup pas besoin d'avoir la liste de txs ? Ca a l'air bancal 
+
+En fait le truc bizarre c'est que ça s'arrête jamais. Si on s'autorise à poster les transactions des optimistics rollups ailleurs alors autant tout poster ailleurs ? Et on settle sur ethereum que plus tard
+
+sinon avoirl a liste des txs d'un bloc ça servirait pour annuler un ordre de la marketplace au lieu de poster sur ethereum on poste ici et si t'essaye de match avec un ordre qui a déjà été post ailleurs tu perds ta thune
